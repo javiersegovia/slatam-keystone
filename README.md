@@ -1,10 +1,14 @@
 # Slatam API
 
+<br/>
+
 ## Development
 
-Start the project in dev mode with `docker-compose run dev`. You will have the app ready on `localhost:8080`.
+Start the project in dev mode with `docker-compose run dev`. You will have the app running with hot-reload on `localhost:8080`.
 
-If you want to use the **pgadmin** interface, you can use `docker-compose up dev pgadmin`
+If you want to use the **pgadmin** interface, you can use `docker-compose up dev pgadmin`  
+
+<br/>
 
 ## Deployment
 
