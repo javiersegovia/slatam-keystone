@@ -8,6 +8,6 @@ If you want to use the **pgadmin** interface, you can use `docker-compose up dev
 
 ## Deployment
 
-_This is a work in progress_
+**This is a work in progress**
 
-You can deploy the app using `docker-compose up api`
+Using `docker-compose up api` you will have the node server running with pm2 on port 8080.
